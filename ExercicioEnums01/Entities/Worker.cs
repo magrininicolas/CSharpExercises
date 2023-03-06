@@ -4,9 +4,9 @@ namespace Course.Entities
 {
   class Worker
   {
+    private double _baseSalary;
     public string Name { get; set; }
     public WorkerLevel Level { get; set; }
-    private double BaseSalary { get; set; }
     public string DepartmentName { get; set; }
     public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
@@ -16,8 +16,14 @@ namespace Course.Entities
     {
       Name = name;
       Level = level;
-      BaseSalary = baseSalary;
+      _baseSalary = baseSalary;
       DepartmentName = department;
+    }
+
+    public double BaseSalary
+    {
+      get { return _baseSalary; }
+      set { if (value != null) _baseSalary = value; }
     }
 
     public void AddContract(HourContract contract)
