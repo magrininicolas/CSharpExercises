@@ -1,0 +1,15 @@
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/bin/Debug/net7.0/Exercicio002
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/bin/Debug/net7.0/Exercicio002.deps.json
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/bin/Debug/net7.0/Exercicio002.runtimeconfig.json
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/bin/Debug/net7.0/Exercicio002.dll
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/bin/Debug/net7.0/Exercicio002.pdb
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/Exercicio002.csproj.AssemblyReference.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/Exercicio002.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/Exercicio002.AssemblyInfoInputs.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/Exercicio002.AssemblyInfo.cs
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/Exercicio002.csproj.CoreCompileInputs.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/Exercicio002.dll
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/refint/Exercicio002.dll
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/Exercicio002.pdb
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/Exercicio002.genruntimeconfig.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/Exercicio002/obj/Debug/net7.0/ref/Exercicio002.dll
