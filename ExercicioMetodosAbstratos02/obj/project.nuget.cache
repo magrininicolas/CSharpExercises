@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JDpcovV/R+gwkFwU+rbC6PB2rMM3PpfytzlSjxfPb6DssNquNV5tB2WkNwLQBxciyYk/wcTm3Xb3CzDJr8sFiQ==",
+  "success": true,
+  "projectFilePath": "/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/ExercicioMetodosAbstratos02.csproj",
+  "expectedPackageFiles": [
+    "/home/nicolas/.nuget/packages/microsoft.netcore.app.ref/7.0.3/microsoft.netcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/nicolas/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/nicolas/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.3/microsoft.netcore.app.host.linux-x64.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

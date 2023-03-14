@@ -1,0 +1,15 @@
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/ExercicioMetodosAbstratos02.csproj.AssemblyReference.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/ExercicioMetodosAbstratos02.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/ExercicioMetodosAbstratos02.AssemblyInfoInputs.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/ExercicioMetodosAbstratos02.AssemblyInfo.cs
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/ExercicioMetodosAbstratos02.csproj.CoreCompileInputs.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/bin/Debug/net7.0/ExercicioMetodosAbstratos02
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/bin/Debug/net7.0/ExercicioMetodosAbstratos02.deps.json
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/bin/Debug/net7.0/ExercicioMetodosAbstratos02.runtimeconfig.json
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/bin/Debug/net7.0/ExercicioMetodosAbstratos02.dll
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/bin/Debug/net7.0/ExercicioMetodosAbstratos02.pdb
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/ExercicioMetodosAbstratos02.dll
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/refint/ExercicioMetodosAbstratos02.dll
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/ExercicioMetodosAbstratos02.pdb
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/ExercicioMetodosAbstratos02.genruntimeconfig.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioMetodosAbstratos02/obj/Debug/net7.0/ref/ExercicioMetodosAbstratos02.dll
