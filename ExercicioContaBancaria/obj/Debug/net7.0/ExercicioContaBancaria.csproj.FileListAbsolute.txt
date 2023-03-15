@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\ExercicioContaBancaria.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\ExercicioContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\ExercicioContaBancaria.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\ExercicioContaBancaria.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\ExercicioContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\bin\Debug\net7.0\ExercicioContaBancaria.exe
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\bin\Debug\net7.0\ExercicioContaBancaria.deps.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\bin\Debug\net7.0\ExercicioContaBancaria.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\bin\Debug\net7.0\ExercicioContaBancaria.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\bin\Debug\net7.0\ExercicioContaBancaria.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\ExercicioContaBancaria.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\refint\ExercicioContaBancaria.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\ExercicioContaBancaria.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\ExercicioContaBancaria.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioContaBancaria\obj\Debug\net7.0\ref\ExercicioContaBancaria.dll

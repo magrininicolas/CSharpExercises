@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\bin\Debug\net7.0\ExercicioTryCatch.exe
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\bin\Debug\net7.0\ExercicioTryCatch.deps.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\bin\Debug\net7.0\ExercicioTryCatch.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\bin\Debug\net7.0\ExercicioTryCatch.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\bin\Debug\net7.0\ExercicioTryCatch.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\ExercicioTryCatch.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\ExercicioTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\ExercicioTryCatch.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\ExercicioTryCatch.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\ExercicioTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\ExercicioTryCatch.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\refint\ExercicioTryCatch.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\ExercicioTryCatch.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\ExercicioTryCatch.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioTryCatch\obj\Debug\net7.0\ref\ExercicioTryCatch.dll

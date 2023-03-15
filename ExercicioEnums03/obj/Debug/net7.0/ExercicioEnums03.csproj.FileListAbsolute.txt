@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\bin\Debug\net7.0\ExercicioEnums03.exe
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\bin\Debug\net7.0\ExercicioEnums03.deps.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\bin\Debug\net7.0\ExercicioEnums03.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\bin\Debug\net7.0\ExercicioEnums03.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\bin\Debug\net7.0\ExercicioEnums03.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\ExercicioEnums03.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\ExercicioEnums03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\ExercicioEnums03.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\ExercicioEnums03.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\ExercicioEnums03.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\ExercicioEnums03.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\refint\ExercicioEnums03.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\ExercicioEnums03.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\ExercicioEnums03.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioEnums03\obj\Debug\net7.0\ref\ExercicioEnums03.dll

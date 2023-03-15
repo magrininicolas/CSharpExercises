@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.exe
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.deps.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\refint\ExercicioMatrizes.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioMatrizes\obj\Debug\net7.0\ref\ExercicioMatrizes.dll

@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.exe
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.deps.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\refint\ExercicioEstoque.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioEstoque\obj\Debug\net7.0\ref\ExercicioEstoque.dll

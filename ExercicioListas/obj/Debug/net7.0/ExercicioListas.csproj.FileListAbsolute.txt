@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\ExercicioListas.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\ExercicioListas.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\ExercicioListas.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\bin\Debug\net7.0\ExercicioListas.exe
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\bin\Debug\net7.0\ExercicioListas.deps.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\bin\Debug\net7.0\ExercicioListas.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\bin\Debug\net7.0\ExercicioListas.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\bin\Debug\net7.0\ExercicioListas.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\ExercicioListas.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\refint\ExercicioListas.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\ExercicioListas.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\ExercicioListas.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioListas\obj\Debug\net7.0\ref\ExercicioListas.dll

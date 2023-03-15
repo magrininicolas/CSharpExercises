@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\ExercicioConverteMoeda.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\ExercicioConverteMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\ExercicioConverteMoeda.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\ExercicioConverteMoeda.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\ExercicioConverteMoeda.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\bin\Debug\net7.0\ExercicioConverteMoeda.exe
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\bin\Debug\net7.0\ExercicioConverteMoeda.deps.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\bin\Debug\net7.0\ExercicioConverteMoeda.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\bin\Debug\net7.0\ExercicioConverteMoeda.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\bin\Debug\net7.0\ExercicioConverteMoeda.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\ExercicioConverteMoeda.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\refint\ExercicioConverteMoeda.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\ExercicioConverteMoeda.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\ExercicioConverteMoeda.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioConverteMoeda\obj\Debug\net7.0\ref\ExercicioConverteMoeda.dll

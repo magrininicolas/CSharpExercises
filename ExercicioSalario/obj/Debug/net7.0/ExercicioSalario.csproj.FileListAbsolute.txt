@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\ExercicioSalario.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\ExercicioSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\ExercicioSalario.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\ExercicioSalario.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\ExercicioSalario.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\bin\Debug\net7.0\ExercicioSalario.exe
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\bin\Debug\net7.0\ExercicioSalario.deps.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\bin\Debug\net7.0\ExercicioSalario.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\bin\Debug\net7.0\ExercicioSalario.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\bin\Debug\net7.0\ExercicioSalario.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\ExercicioSalario.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\refint\ExercicioSalario.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\ExercicioSalario.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\ExercicioSalario.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioSalario\obj\Debug\net7.0\ref\ExercicioSalario.dll

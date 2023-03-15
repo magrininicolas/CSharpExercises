@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\ExercicioVetores.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\ExercicioVetores.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\bin\Debug\net7.0\ExercicioVetores.exe
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\bin\Debug\net7.0\ExercicioVetores.deps.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\bin\Debug\net7.0\ExercicioVetores.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\bin\Debug\net7.0\ExercicioVetores.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\bin\Debug\net7.0\ExercicioVetores.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\ExercicioVetores.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\refint\ExercicioVetores.dll
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\ExercicioVetores.pdb
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\ExercicioVetores.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\Exercicios\ExercicioVetores\obj\Debug\net7.0\ref\ExercicioVetores.dll

@@ -1,0 +1,15 @@
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\ExercicioNotas.csproj.AssemblyReference.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\ExercicioNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\ExercicioNotas.AssemblyInfoInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\ExercicioNotas.AssemblyInfo.cs
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\ExercicioNotas.csproj.CoreCompileInputs.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\bin\Debug\net7.0\ExercicioNotas.exe
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\bin\Debug\net7.0\ExercicioNotas.deps.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\bin\Debug\net7.0\ExercicioNotas.runtimeconfig.json
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\bin\Debug\net7.0\ExercicioNotas.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\bin\Debug\net7.0\ExercicioNotas.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\ExercicioNotas.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\refint\ExercicioNotas.dll
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\ExercicioNotas.pdb
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\ExercicioNotas.genruntimeconfig.cache
+C:\Users\magri\Desktop\CursoCSharp\ExercicioNotas\obj\Debug\net7.0\ref\ExercicioNotas.dll
