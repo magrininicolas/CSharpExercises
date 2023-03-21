@@ -1,0 +1,15 @@
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/bin/Debug/net7.0/ExercicioInterfaces001
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/bin/Debug/net7.0/ExercicioInterfaces001.deps.json
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/bin/Debug/net7.0/ExercicioInterfaces001.runtimeconfig.json
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/bin/Debug/net7.0/ExercicioInterfaces001.dll
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/bin/Debug/net7.0/ExercicioInterfaces001.pdb
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/ExercicioInterfaces001.csproj.AssemblyReference.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/ExercicioInterfaces001.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/ExercicioInterfaces001.AssemblyInfoInputs.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/ExercicioInterfaces001.AssemblyInfo.cs
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/ExercicioInterfaces001.csproj.CoreCompileInputs.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/ExercicioInterfaces001.dll
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/refint/ExercicioInterfaces001.dll
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/ExercicioInterfaces001.pdb
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/ExercicioInterfaces001.genruntimeconfig.cache
+/home/nicolas/Desktop/CursoCSharp/Exercicios/ExercicioInterfaces001/obj/Debug/net7.0/ref/ExercicioInterfaces001.dll
